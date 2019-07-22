@@ -70,10 +70,6 @@ if __name__ == '__main__':
         # print "bing link ********************************** "
         print google_links
 
-    # for bing_name in gtitles:
-    #     print type(bing_name)
-    #     print " bing name *************"
-    #     print bing_name
 
     print "---------------------Google search part over------------------------------------------------"
 
