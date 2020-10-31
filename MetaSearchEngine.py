@@ -65,10 +65,10 @@ if __name__ == '__main__':
     # print gtitles
     # print glinks
 
-    for google_links in glinks:
+    for g_links in glinks:
         # print type(bing_links)
         # print "bing link ********************************** "
-        print google_links
+        print g_links
 
     # for bing_name in gtitles:
     #     print type(bing_name)
@@ -107,8 +107,7 @@ if __name__ == '__main__':
         btitles.append(name_bing)
         blinks.append(link_bing)
 
-    #     print(type(name_bing), "type of the name which we are getting from the bing")
-    #     print(type(link_bing), "type of the name which we are getting from the bing")
+    
 
     print "******************************************************************"
     print "\n links from the bing search engine \n"
